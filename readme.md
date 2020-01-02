@@ -14,4 +14,4 @@ Create a map using Leaflet that plots all of the earthquakes from a dataset in t
 * Add a number of base maps to choose from as well as separate out two different data sets into overlays that can be turned on and off independently.
 * Add layer controls to the map.
 ## Preview
-
+![preview](preview.png)
